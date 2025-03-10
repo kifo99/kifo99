@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 * 🌍  I'm based in Belgrade, Serbia
 * 🖥️  See my portfolio at [My Projects(GitHub)](http://github.com/kifo99)
 * ✉️  You can contact me at [ivan123rakovic@gmail.com](mailto:ivan123rakovic@gmail.com)
-* 🚀  I'm currently working on [AnimeTracker](http://github.com/kifo99)
+* 🚀  I'm currently working on [NyanimeList](https://github.com/kifo99/nyanime-list)
 * 🧠  I'm learning MongoDB, TypeScript, React
 * 🤝  I'm open to collaborating on Full-Stack, Back-End, Front-End and Game Dev projects
 
