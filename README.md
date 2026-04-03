@@ -26,7 +26,9 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kifo99"><img src="https://github-readme-stats.vercel.app/api?username=kifo99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kifo99's GitHub stats" /></a>
+<a href="https://github.com/kifo99">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kifo99&show_icons=true&count_private=true&theme=dark" />
+</a>
 
 <a href="http://www.github.com/kifo99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kifo99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
