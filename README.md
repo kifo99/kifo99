@@ -32,4 +32,4 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 
 <a href="https://www.github.com/kifo99"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kifo99&theme=github-compact" alt="My GitHub Activity Graph" /></a>
 
-<a href="https://www.github.com/kifo99" align="left"><img <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kifo99&layout=compact" /> alt="Top Languages" /></a>
+<a href="https://www.github.com/kifo99" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kifo99&layout=compact" alt="Top Languages" /></a>
