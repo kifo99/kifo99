@@ -44,8 +44,6 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
 </a>
 
-<br/>
-
 <!-- BACKEND -->
 <strong>Backend</strong><br/>
 <a href="https://nodejs.org/" target="_blank">
@@ -67,8 +65,6 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 </a>
 
-<br/>
-
 <!-- DATABASES -->
 <strong>Databases</strong><br/>
 <a href="https://www.mongodb.com/" target="_blank">
@@ -81,7 +77,6 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
 
-<br/>
 
 <!-- GAME DEV -->
 <strong>Game Dev</strong><br/>
@@ -95,8 +90,6 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
 </a>
 
-<br/>
-
 <!-- TOOLS -->
 <strong>Tools</strong><br/>
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -108,7 +101,6 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 </a>
-
 </p>
 
 ### Socials
