@@ -18,7 +18,8 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <p align="left">
 
 <!-- FRONTEND -->
-<strong>Frontend</strong><br/>
+<strong>Frontend</strong>
+<div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
@@ -43,9 +44,11 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
 </a>
+</div>
 
 <!-- BACKEND -->
-<strong>Backend</strong><br/>
+<strong>Backend</strong>
+<div>
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </a>
@@ -58,15 +61,25 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
 </a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-</a>
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 </a>
+</div>
+
+<!-- SYSTEMS -->
+<strong>Systems / Low-Level</strong>
+<div>
+<a href="https://en.cppreference.com/w/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />
+</a>
+</div>
 
 <!-- DATABASES -->
-<strong>Databases</strong><br/>
+<strong>Databases</strong>
+<div>
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
@@ -76,10 +89,11 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
-
+</div>
 
 <!-- GAME DEV -->
-<strong>Game Dev</strong><br/>
+<strong>Game Dev</strong>
+<div>
 <a href="https://unity.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" />
 </a>
@@ -89,9 +103,11 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://www.blender.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
 </a>
+</div>
 
 <!-- TOOLS -->
-<strong>Tools</strong><br/>
+<strong>Tools</strong>
+<div>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
 </a>
@@ -101,6 +117,8 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 </a>
+</div>
+
 </p>
 
 ### Socials
