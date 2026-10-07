@@ -155,8 +155,8 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/kifo99">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kifo99&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kifo99/kifo99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kifo99/kifo99/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kifo99/kifo99/output/github-snake-dark.svg" />
+</picture>
