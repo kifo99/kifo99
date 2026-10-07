@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Rakovic
-====================================================================================================================================
+# Hi 👋 My name is Ivan Rakovic
 
-Full-Stack Web Developer
-------------------------
+## Full-Stack Web Developer
 
 I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in Bijelo Polje, my journey in technology began with a fascination for how things work and a drive to create innovative solutions. I am committed to continuous learning and staying updated with the latest industry trends to ensure that my work remains cutting-edge.
 
 * 🌍  I'm based in Belgrade, Serbia
-* 🖥️  See my portfolio at [My Projects(GitHub)](http://github.com/kifo99)
+* 🖥️  See my portfolio at [My Projects (GitHub)](https://github.com/kifo99)
 * ✉️  You can contact me at [ivan123rakovic@gmail.com](mailto:ivan123rakovic@gmail.com)
 * 🚀  I'm currently working on [NyanimeList](https://github.com/kifo99/nyanime-list)
 * 🧠  I'm learning MongoDB, TypeScript, React
@@ -123,17 +121,42 @@ I'm a passionate Full-Stack Web Developer and Game Developer. Born and raised in
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kifo99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ivan-rakovi%C4%87-b55112312/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/kifo99" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-rakovi%C4%87-b55112312/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
+  </a>
+</p>
 
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
+<p align="left">
+  <a href="https://github.com/kifo99">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kifo99&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kifo99">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifo99&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-<a href="https://github.com/kifo99">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kifo99&show_icons=true&count_private=true&theme=dark" />
-</a>
+<p align="left">
+  <a href="https://github.com/kifo99">
+    <img src="https://streak-stats.demolab.com/?user=kifo99&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+  </a>
+</p>
 
-<a href="http://www.github.com/kifo99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kifo99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://www.github.com/kifo99"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kifo99&theme=github-compact" alt="My GitHub Activity Graph" /></a>
-
-<a href="https://www.github.com/kifo99" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kifo99&layout=compact" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://github.com/kifo99">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kifo99&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
